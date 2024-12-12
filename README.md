@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+Welcome to my Github
+
+as you can see, there is not much to explore...
+
+But the world has sooooo much, meaning I am learning and not ready to publish my code **yet** , maybe another time.
+
+My primarily used languages are C#, Python, Java 
+looking foreword to learning Rust
+
+Also other important things like pipelines and Documentation are Fields I am currently exploring.
+
+I hope, that I soon can have an even more welcoming Page and can share a little more about me :3
 <!--
 **drachenfliger13/drachenfliger13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
