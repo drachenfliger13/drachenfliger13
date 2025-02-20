@@ -1,17 +1,52 @@
 ## Hi there 👋
 
-Welcome to my Github
+### Welcome to my Github
 
 as you can see, there is not much to explore...
 
 But the world has sooooo much, meaning I am learning and not ready to publish my code **yet** , maybe another time.
 
-My primarily used languages are C#, Python, Java 
-looking foreword to learning Rust
+My primarily used languages are C#, Python, Java. 
+I am looking foreword to learning Rust.
 
-Also other important things like pipelines and Documentation are Fields I am currently exploring.
+---
 
-I hope, that I soon can have an even more welcoming Page and can share a little more about me :3
+### About me
+
+I am currently an apprentice for application development in a German company.
+
+Please if you expect me to be active on here, I am sporadically doing something but could also be stuck in
+a depressive episeode.
+<!-- 
+ASD 
+ADHD / ADD 
+Anxiety
+🌈🏳️‍🌈🏳️‍⚧️🌅
+Non Binary / Agender/ Gernderfluid (Fluidflux) :)
+Trans 🏳️‍⚧️
+
+🧡💛🤍🩵💙
+
+Asexual 🖤🩶🤍💜
+Aromantic💚🤍🩶🖤
+
+Basically I now have to Be Cliche and say I use Arch btw. with Hyperland and Programm in Rust lol
+
+-->
+
+#### Hobbies:
+- music: Playing E-Bass and Piano
+- event technician: Lighting Designer and Operator
+- photography: Landscape Photography ⛰️📸📹
+<!-- Go check out my insta :)-->
+- Climbing: DAV Toprope Licence, Bouldering
+- Learning about random topics; i.e.: Physics and/or history
+- Home labbing: A simple 19" Rack with some Servers Based on Proxmox
+<!-- Some pictures-->
+Basically I do whatever I like to do. More often than not it involves Tech 
+
+
+
 <!--
 **drachenfliger13/drachenfliger13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
