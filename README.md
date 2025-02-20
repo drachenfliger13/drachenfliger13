@@ -39,8 +39,8 @@ Basically I now have to Be Cliche and say I use Arch btw. with Hyperland and Pro
 - event technician: Lighting Designer and Operator
 - photography: Landscape Photography ⛰️📸📹
 <!-- Go check out my insta :)-->
-- Climbing: DAV Toprope Licence, Bouldering
-- Learning about random topics; i.e.: Physics and/or history
+- Climbing: DAV Toprope License, Bouldering
+- Learning about random topics; i.e.: Physics and history
 - Home labbing: A simple 19" Rack with some Servers Based on Proxmox
 <!-- Some pictures-->
 Basically I do whatever I like to do. More often than not it involves Tech 
