@@ -17,12 +17,14 @@ I am currently an apprentice for application development in a German company.
 
 Please if you expect me to be active on here, I am sporadically doing something but could also be stuck in
 a depressive episeode.
-<!-- 
+
+
+--- 
 ASD 
 ADHD / ADD 
 Anxiety
 🌈🏳️‍🌈🏳️‍⚧️🌅
-Non Binary / Agender/ Gernderfluid (Fluidflux) :)
+Non Binary / Agender/ Gernderfluid (Fluidflux) 
 Trans 🏳️‍⚧️
 
 🧡💛🤍🩵💙
@@ -30,9 +32,12 @@ Trans 🏳️‍⚧️
 Asexual 🖤🩶🤍💜
 Aromantic💚🤍🩶🖤
 
-Basically I now have to Be Cliche and say I use Arch btw. with Hyperland and Programm in Rust lol
+Basically I now have to be Cliche and say I use Arch btw. with Hyperland and Programm in Rust lol 
 
--->
+### Current projects:
+- an application that is solving a problem of me having too many notes on different plattforms i.e. notion, obsidian etc.
+   but this will be more understandable and expliande in detail, whe I finnished planning it.
+
 
 #### Hobbies:
 - music: Playing E-Bass and Piano
