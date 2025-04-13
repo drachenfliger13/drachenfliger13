@@ -21,11 +21,14 @@ a depressive episeode.
 
 --- 
 ASD 
+
 ADHD / ADD 
+
 Anxiety
+
 🌈🏳️‍🌈🏳️‍⚧️🌅
-Non Binary / Agender/ Gernderfluid (Fluidflux) 
-Trans 🏳️‍⚧️
+
+Non Binary / Agender/ Gernderfluid (Fluidflux) | Trans 
 
 🧡💛🤍🩵💙
 
