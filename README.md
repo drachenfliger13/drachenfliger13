@@ -24,7 +24,6 @@ ASD
 
 ADHD / ADD 
 
-Anxiety
 
 🌈🏳️‍🌈🏳️‍⚧️🌅
 
