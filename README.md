@@ -28,13 +28,16 @@ ADHD / ADD
 🌈🏳️‍🌈🏳️‍⚧️🌅
 
 Non Binary / Agender/ Gernderfluid (Fluidflux) | Trans 
+(They/Them, She/Her, It/Its)
 
 🧡💛🤍🩵💙
 
 Asexual 🖤🩶🤍💜
 Aromantic💚🤍🩶🖤
+Lesbian ❤️🧡🤍🩷💜
 
 Basically I now have to be Cliche and say I use Arch btw. with Hyperland and Programm in Rust lol 
+
 
 ### Current projects:
 - an application that is solving a problem of me having too many notes on different plattforms i.e. notion, obsidian etc.
