@@ -16,19 +16,13 @@ I am looking foreword to learning Rust.
 I am currently an apprentice for application development in a German company.
 
 Please if you expect me to be active on here, I am sporadically doing something but could also be stuck in
-a depressive episeode.
-
+a depressive episode.
 
 --- 
-ASD 
-
-ADHD / ADD 
-
-
 🌈🏳️‍🌈🏳️‍⚧️🌅
 
 Non Binary / Agender/ Gernderfluid (Fluidflux) | Trans 
-(They/Them, She/Her, It/Its)
+(She/Her, They/Them, It/Its)
 
 🧡💛🤍🩵💙
 
@@ -36,12 +30,14 @@ Asexual 🖤🩶🤍💜
 Aromantic💚🤍🩶🖤
 Lesbian ❤️🧡🤍🩷💜
 
+ASD + ADD 
+
 Basically I now have to be Cliche and say I use Arch btw. with Hyperland and Programm in Rust lol 
 
 
 ### Current projects:
-- an application that is solving a problem of me having too many notes on different plattforms i.e. notion, obsidian etc.
-   but this will be more understandable and expliande in detail, whe I finnished planning it.
+- an application that is solving a problem of me having too many notes on different platforms i.e. notion, obsidian etc.
+   but this will be more understandable and explained in detail, when I finished planning it.
 
 
 #### Hobbies:
